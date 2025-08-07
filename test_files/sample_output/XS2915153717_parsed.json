@@ -1,0 +1,56 @@
+{
+    "issuer_lei": "W22LROWP2IHZNBB6K528",
+    "isin": "XS2915153717",
+    "currency": "USD",
+    "underlyings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "currency": "USD",
+            "isin": "",
+            "bloomberg_ticker": "IBN UN Equity",
+            "fixing_price_original": "29.7500"
+        },
+        {
+            "name": "Infosys Ltd",
+            "currency": "USD",
+            "isin": "",
+            "bloomberg_ticker": "INFY UN Equity",
+            "fixing_price_original": "21.6000"
+        }
+    ],
+    "initial_fixing_date": "18 Nov 2024",
+    "issue_date": "02 Dec 2024",
+    "final_fixing_date": "02 Dec 2025",
+    "maturity_date": "04 Dec 2025",
+    "coupon_schedule": [
+        {
+            "fixing_date": "02 Jun 2025",
+            "settlement_date": "04 Jun 2025"
+        },
+        {
+            "fixing_date": "02 Dec 2025",
+            "settlement_date": "04 Dec 2025"
+        }
+    ],
+    "autocall_schedule": [
+        {
+            "observation_date": "02 Jun 2025",
+            "settlement_date": "04 Jun 2025"
+        },
+        {
+            "observation_date": "02 Dec 2025",
+            "settlement_date": "04 Dec 2025"
+        }
+    ],
+    "autocall_percent_value": "100.0000",
+    "coupon_percent_value": "4.9500",
+    "knock_in_barrier_level": null,
+    "strike_level": "85.0000",
+    "stepdown_level": null,
+    "knock_in_observation": "",
+    "first_autocall_observation_date": "02 Jun 2025",
+    "autocall_frequency": "Monthly",
+    "autocall_observation_style": "End of Period",
+    "autocall_non_call_periods": null,
+    "coupon_frequency": "Monthly"
+}

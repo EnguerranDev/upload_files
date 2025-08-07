@@ -1,0 +1,115 @@
+{
+    "issuer_lei": "W22LROWP2IHZNBB6K528",
+    "isin": "CH1350121724",
+    "currency": "NOK",
+    "underlyings": [
+        {
+            "name": "Airbus SE",
+            "currency": "EUR",
+            "isin": "NL0000235190",
+            "bloomberg_ticker": "AIR FP",
+            "fixing_price_original": "159.00"
+        },
+        {
+            "name": "Hitachi Ltd.",
+            "currency": "JPY",
+            "isin": "JP3788600009",
+            "bloomberg_ticker": "6501 JT",
+            "fixing_price_original": "15673.00"
+        },
+        {
+            "name": "Honda Motor Co. Ltd.",
+            "currency": "JPY",
+            "isin": "JP3854600008",
+            "bloomberg_ticker": "7267 JT",
+            "fixing_price_original": "1733.80"
+        }
+    ],
+    "initial_fixing_date": "2024-05-27",
+    "issue_date": "2024-06-10",
+    "final_fixing_date": "2025-06-09",
+    "maturity_date": "2025-06-12",
+    "coupon_schedule": [
+        {
+            "fixing_date": "2024-07-12",
+            "settlement_date": "2024-07-12"
+        },
+        {
+            "fixing_date": "2024-08-12",
+            "settlement_date": "2024-08-12"
+        },
+        {
+            "fixing_date": "2024-09-12",
+            "settlement_date": "2024-09-12"
+        },
+        {
+            "fixing_date": "2024-10-14",
+            "settlement_date": "2024-10-14"
+        },
+        {
+            "fixing_date": "2024-11-12",
+            "settlement_date": "2024-11-12"
+        },
+        {
+            "fixing_date": "2024-12-12",
+            "settlement_date": "2024-12-12"
+        },
+        {
+            "fixing_date": "2025-01-13",
+            "settlement_date": "2025-01-13"
+        },
+        {
+            "fixing_date": "2025-02-12",
+            "settlement_date": "2025-02-12"
+        },
+        {
+            "fixing_date": "2025-03-12",
+            "settlement_date": "2025-03-12"
+        },
+        {
+            "fixing_date": "2025-04-14",
+            "settlement_date": "2025-04-14"
+        },
+        {
+            "fixing_date": "2025-05-12",
+            "settlement_date": "2025-05-12"
+        },
+        {
+            "fixing_date": "2025-06-12",
+            "settlement_date": "2025-06-12"
+        }
+    ],
+    "autocall_schedule": [
+        {
+            "observation_date": "2025-01-17",
+            "settlement_date": "2025-01-17"
+        },
+        {
+            "observation_date": "2025-02-17",
+            "settlement_date": "2025-02-17"
+        },
+        {
+            "observation_date": "2025-03-17",
+            "settlement_date": "2025-03-17"
+        },
+        {
+            "observation_date": "2025-04-17",
+            "settlement_date": "2025-04-17"
+        },
+        {
+            "observation_date": "2025-05-19",
+            "settlement_date": "2025-05-19"
+        }
+    ],
+    "autocall_percent_value": "100.00",
+    "coupon_percent_value": "8.00",
+    "knock_in_barrier_level": "50.00",
+    "strike_level": "100.00",
+    "stepdown_level": null,
+    "knock_in_observation": "",
+    "first_autocall_observation_date": "2025-01-17",
+    "autocall_frequency": "Monthly",
+    "autocall_observation_style": "End of Period",
+    "autocall_non_call_periods": null,
+    "coupon_frequency": "Monthly"
+}

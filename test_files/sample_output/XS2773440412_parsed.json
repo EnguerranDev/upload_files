@@ -1,0 +1,167 @@
+{
+    "issuer_lei": "W22LROWP2IHZNBB6K528",
+    "isin": "XS2773440412",
+    "currency": "EUR",
+    "underlyings": [
+        {
+            "name": "Mercedes-Benz Group AG",
+            "currency": "EUR",
+            "isin": "DE0007100000",
+            "bloomberg_ticker": "MBG GY",
+            "fixing_price_original": "74.0800"
+        },
+        {
+            "name": "SAP SE",
+            "currency": "EUR",
+            "isin": "DE0007164600",
+            "bloomberg_ticker": "SAP GY",
+            "fixing_price_original": "174.7400"
+        },
+        {
+            "name": "NOVO NORDISK A/S",
+            "currency": "DKK",
+            "isin": "DK0062498333",
+            "bloomberg_ticker": "NOVOB DC",
+            "fixing_price_original": "888.0000"
+        }
+    ],
+    "initial_fixing_date": "2024-03-21",
+    "issue_date": "2024-04-04",
+    "final_fixing_date": "2025-10-06",
+    "maturity_date": "2025-10-08",
+    "coupon_schedule": [
+        {
+            "fixing_date": "2024-05-06",
+            "settlement_date": "2024-05-08"
+        },
+        {
+            "fixing_date": "2024-06-04",
+            "settlement_date": "2024-06-06"
+        },
+        {
+            "fixing_date": "2024-07-04",
+            "settlement_date": "2024-07-08"
+        },
+        {
+            "fixing_date": "2024-08-05",
+            "settlement_date": "2024-08-07"
+        },
+        {
+            "fixing_date": "2024-09-04",
+            "settlement_date": "2024-09-06"
+        },
+        {
+            "fixing_date": "2024-10-04",
+            "settlement_date": "2024-10-08"
+        },
+        {
+            "fixing_date": "2024-11-04",
+            "settlement_date": "2024-11-06"
+        },
+        {
+            "fixing_date": "2024-12-04",
+            "settlement_date": "2024-12-06"
+        },
+        {
+            "fixing_date": "2025-01-06",
+            "settlement_date": "2025-01-08"
+        },
+        {
+            "fixing_date": "2025-02-04",
+            "settlement_date": "2025-02-06"
+        },
+        {
+            "fixing_date": "2025-03-04",
+            "settlement_date": "2025-03-06"
+        },
+        {
+            "fixing_date": "2025-04-04",
+            "settlement_date": "2025-04-08"
+        },
+        {
+            "fixing_date": "2025-05-05",
+            "settlement_date": "2025-05-07"
+        },
+        {
+            "fixing_date": "2025-06-04",
+            "settlement_date": "2025-06-06"
+        },
+        {
+            "fixing_date": "2025-07-04",
+            "settlement_date": "2025-07-08"
+        },
+        {
+            "fixing_date": "2025-08-04",
+            "settlement_date": "2025-08-06"
+        },
+        {
+            "fixing_date": "2025-09-04",
+            "settlement_date": "2025-09-08"
+        },
+        {
+            "fixing_date": "2025-10-06",
+            "settlement_date": "2025-10-08"
+        }
+    ],
+    "autocall_schedule": [
+        {
+            "observation_date": "2024-10-04",
+            "settlement_date": "2024-10-08"
+        },
+        {
+            "observation_date": "2024-11-04",
+            "settlement_date": "2024-11-06"
+        },
+        {
+            "observation_date": "2024-12-04",
+            "settlement_date": "2024-12-06"
+        },
+        {
+            "observation_date": "2025-01-06",
+            "settlement_date": "2025-01-08"
+        },
+        {
+            "observation_date": "2025-02-04",
+            "settlement_date": "2025-02-06"
+        },
+        {
+            "observation_date": "2025-03-04",
+            "settlement_date": "2025-03-06"
+        },
+        {
+            "observation_date": "2025-04-04",
+            "settlement_date": "2025-04-08"
+        },
+        {
+            "observation_date": "2025-05-05",
+            "settlement_date": "2025-05-07"
+        },
+        {
+            "observation_date": "2025-06-04",
+            "settlement_date": "2025-06-06"
+        },
+        {
+            "observation_date": "2025-07-04",
+            "settlement_date": "2025-07-08"
+        },
+        {
+            "observation_date": "2025-08-04",
+            "settlement_date": "2025-08-06"
+        },
+        {
+            "observation_date": "2025-09-04",
+            "settlement_date": "2025-09-08"
+        }
+    ],
+    "autocall_percent_value": "100.0000",
+    "coupon_percent_value": "9.9600",
+    "knock_in_barrier_level": null,
+    "strike_level": "79.0000",
+    "stepdown_level": null,
+    "knock_in_observation": "",
+    "first_autocall_observation_date": "2024-10-04",
+    "autocall_frequency": "Monthly",
+    "autocall_observation_style": "End of Period",
+    "autocall_non_call_periods": null,
+    "coupon_frequency": "Monthly"
+}

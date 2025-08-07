@@ -1,0 +1,142 @@
+{
+    "issuer_lei": "XZYUUT6IZX1YP8QATV71",
+    "isin": "XS2682830307",
+    "currency": "USD",
+    "underlyings": [
+        {
+            "name": "AIR LIQUIDE",
+            "currency": "EUR",
+            "isin": "FR0000120073",
+            "bloomberg_ticker": "AI FP Equity",
+            "fixing_price_original": "153.7400"
+        },
+        {
+            "name": "AIR PRODS & CHEM",
+            "currency": "USD",
+            "isin": "US0091581068",
+            "bloomberg_ticker": "APD UN Equity",
+            "fixing_price_original": "276.9600"
+        },
+        {
+            "name": "NEW LINDE PLC",
+            "currency": "USD",
+            "isin": "IE00BZ12WP82",
+            "bloomberg_ticker": "LIN UN Equity",
+            "fixing_price_original": "367.8300"
+        }
+    ],
+    "initial_fixing_date": "2023-10-25",
+    "issue_date": "2023-11-08",
+    "final_fixing_date": "2025-11-10",
+    "maturity_date": "2025-11-13",
+    "coupon_schedule": [
+        {
+            "fixing_date": "2023-12-08",
+            "settlement_date": "2023-12-12"
+        },
+        {
+            "fixing_date": "2024-01-08",
+            "settlement_date": "2024-01-10"
+        },
+        {
+            "fixing_date": "2024-02-08",
+            "settlement_date": "2024-02-12"
+        },
+        {
+            "fixing_date": "2024-03-08",
+            "settlement_date": "2024-03-12"
+        },
+        {
+            "fixing_date": "2024-04-08",
+            "settlement_date": "2024-04-10"
+        },
+        {
+            "fixing_date": "2024-05-08",
+            "settlement_date": "2024-05-10"
+        },
+        {
+            "fixing_date": "2024-06-10",
+            "settlement_date": "2024-06-12"
+        },
+        {
+            "fixing_date": "2024-07-08",
+            "settlement_date": "2024-07-10"
+        },
+        {
+            "fixing_date": "2024-08-08",
+            "settlement_date": "2024-08-12"
+        },
+        {
+            "fixing_date": "2024-09-09",
+            "settlement_date": "2024-09-11"
+        },
+        {
+            "fixing_date": "2024-10-08",
+            "settlement_date": "2024-10-10"
+        },
+        {
+            "fixing_date": "2024-11-08",
+            "settlement_date": "2024-11-13"
+        },
+        {
+            "fixing_date": "2024-12-09",
+            "settlement_date": "2024-12-11"
+        },
+        {
+            "fixing_date": "2025-01-08",
+            "settlement_date": "2025-01-10"
+        },
+        {
+            "fixing_date": "2025-02-10",
+            "settlement_date": "2025-02-12"
+        },
+        {
+            "fixing_date": "2025-03-10",
+            "settlement_date": "2025-03-12"
+        },
+        {
+            "fixing_date": "2025-04-08",
+            "settlement_date": "2025-04-10"
+        },
+        {
+            "fixing_date": "2025-05-08",
+            "settlement_date": "2025-05-12"
+        },
+        {
+            "fixing_date": "2025-06-09",
+            "settlement_date": "2025-06-11"
+        },
+        {
+            "fixing_date": "2025-07-08",
+            "settlement_date": "2025-07-10"
+        },
+        {
+            "fixing_date": "2025-08-08",
+            "settlement_date": "2025-08-12"
+        },
+        {
+            "fixing_date": "2025-09-08",
+            "settlement_date": "2025-09-10"
+        },
+        {
+            "fixing_date": "2025-10-08",
+            "settlement_date": "2025-10-10"
+        },
+        {
+            "fixing_date": "2025-11-10",
+            "settlement_date": "2025-11-13"
+        }
+    ],
+    "autocall_schedule": [],
+    "autocall_percent_value": null,
+    "coupon_percent_value": "9.5004",
+    "knock_in_barrier_level": null,
+    "strike_level": "80.0000",
+    "stepdown_level": null,
+    "knock_in_observation": "",
+    "first_autocall_observation_date": null,
+    "autocall_frequency": null,
+    "autocall_observation_style": null,
+    "autocall_non_call_periods": null,
+    "coupon_frequency": "Monthly"
+}
