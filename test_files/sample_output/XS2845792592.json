@@ -1,0 +1,118 @@
+{
+  "issuer_lei": "549300QNMDBVTHX8H127",
+  "isin": "XS2845792592",
+  "currency": "AUD",
+  "underlyings": [
+    {
+      "name": "Advanced Micro Devices Inc",
+      "currency": "USD",
+      "isin": "US0079031078",
+      "bloomberg_ticker": "AMD UQ",
+      "fixing_price_original": "164.1500"
+    },
+    {
+      "name": "Alphabet Inc (Class A)",
+      "currency": "USD",
+      "isin": "US02079K3059",
+      "bloomberg_ticker": "GOOGL UQ",
+      "fixing_price_original": "184.7700"
+    },
+    {
+      "name": "NVIDIA Corp",
+      "currency": "USD",
+      "isin": "US67066G1040",
+      "bloomberg_ticker": "NVDA UQ",
+      "fixing_price_original": "121.6000"
+    }
+  ],
+  "initial_fixing_date": "2024-07-03",
+  "issue_date": "2024-07-17",
+  "final_fixing_date": "2026-01-20",
+  "maturity_date": "2026-01-22",
+  "coupon_schedule": [
+    {
+      "fixing_date": "2024-08-19",
+      "settlement_date": "2024-08-21"
+    },
+    {
+      "fixing_date": "2024-09-17",
+      "settlement_date": "2024-09-19"
+    },
+    {
+      "fixing_date": "2024-10-17",
+      "settlement_date": "2024-10-21"
+    },
+    {
+      "fixing_date": "2024-11-18",
+      "settlement_date": "2024-11-20"
+    },
+    {
+      "fixing_date": "2024-12-17",
+      "settlement_date": "2024-12-19"
+    },
+    {
+      "fixing_date": "2025-01-17",
+      "settlement_date": "2025-01-21"
+    },
+    {
+      "fixing_date": "2025-02-18",
+      "settlement_date": "2025-02-20"
+    },
+    {
+      "fixing_date": "2025-03-17",
+      "settlement_date": "2025-03-19"
+    },
+    {
+      "fixing_date": "2025-04-17",
+      "settlement_date": "2025-04-23"
+    },
+    {
+      "fixing_date": "2025-05-19",
+      "settlement_date": "2025-05-21"
+    },
+    {
+      "fixing_date": "2025-06-17",
+      "settlement_date": "2025-06-19"
+    },
+    {
+      "fixing_date": "2025-07-17",
+      "settlement_date": "2025-07-21"
+    },
+    {
+      "fixing_date": "2025-08-18",
+      "settlement_date": "2025-08-20"
+    },
+    {
+      "fixing_date": "2025-09-17",
+      "settlement_date": "2025-09-19"
+    },
+    {
+      "fixing_date": "2025-10-17",
+      "settlement_date": "2025-10-21"
+    },
+    {
+      "fixing_date": "2025-11-17",
+      "settlement_date": "2025-11-19"
+    },
+    {
+      "fixing_date": "2025-12-17",
+      "settlement_date": "2025-12-19"
+    },
+    {
+      "fixing_date": "2026-01-20",
+      "settlement_date": "2026-01-22"
+    }
+  ],
+  "autocall_schedule": [],
+  "autocall_percent_value": "100.0000",
+  "coupon_percent_value": "12.5000",
+  "knock_in_barrier_level": null,
+  "strike_level": "65.0000",
+  "stepdown_level": null,
+  "knock_in_observation": "",
+  "first_autocall_observation_date": "2025-01-17",
+  "autocall_frequency": "Daily",
+  "autocall_observation_style": "Daily Close",
+  "autocall_non_call_periods": null,
+  "coupon_frequency": "Monthly"
+}
